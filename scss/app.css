@@ -1,4 +1,6 @@
-.wrapper {
-  display: grid; }
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red; }
 
 /*# sourceMappingURL=app.css.map */
